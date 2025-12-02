@@ -68,7 +68,7 @@ For separate compilation:
 ```sh
 g++ main.o func.o -o program
 ./program
-
+```
 
 ## 🧠 Purpose of This Repository
 
