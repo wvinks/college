@@ -4,7 +4,7 @@ This repository contains my early C++ programming assignments for the college co
 
 ## 📁 Project Structure
 
-### starter tasks/
+### starter tasks
 
 Contains the introductory tasks:
 - task_1.cpp — first task  
@@ -13,7 +13,7 @@ Contains the introductory tasks:
 - task_4.cpp — fourth task  
 - task_5.cpp — fifth task  
 
-### separate compilation/
+### separate compilation
 This folder demonstrates separate compilation in C++ and contains:
 - main.cpp
 - main.o
@@ -31,7 +31,7 @@ Steps performed in this task:
 
 This shows how real multi-file programs are built.
 
-### task from 19.11.25/
+### task from 19.11.25
 Tasks assigned on 19.11:
 - task_1.cpp - first task
 - task_2.cpp - second task
@@ -46,28 +46,28 @@ tasks 3-10 in progress =)
 2. Navigate to the folder with the task you want to run:
    ```sh
    cd starter tasks
-   or:
-   cd separate_compilation
-   or:
+or:
+   cd separate compilation
+or:
    cd tasks from 19.11.25
 
 
 Compile the program:
-
+```sh
 g++ file.cpp -o program
 
 Run it:
-
+```sh
 ./program
 
 
 For separate compilation:
-
+```sh
 g++ main.o func.o -o program
 ./program
 
 
-##🧠 Purpose of This Repository
+## 🧠 Purpose of This Repository
 
 - To store and organize my college programming tasks
 
@@ -77,9 +77,8 @@ g++ main.o func.o -o program
 
 - To keep all tasks in one safe place
 
-##📝 Notes
+## 📝 Notes
 
-
-Mistakes are part of the process.
-If something breaks — that’s completely normal.
-If everything works on the first try — that’s magic.
+- Mistakes are part of the process.
+- If something breaks — that’s completely normal.
+- If everything works on the first try — that’s magic.
