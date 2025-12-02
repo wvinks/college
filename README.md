@@ -44,29 +44,28 @@ tasks 3-10 in progress =)
 1. Install a C++ compiler (e.g., g++).
 
 2. Navigate to the folder with the task you want to run:
-   ```sh
+```sh
 cd starter tasks
-
+```
 or:
-sh
+```sh
 cd separate compilation
-
+```
 or:
-sh
+```sh
 cd tasks from 19.11.25
+```
 
 Compile the program:
-sh
+```sh
 g++ file.cpp -o program
+```
 Run it:
-
-sh
 ./program
 
 For separate compilation:
-sh
+```sh
 g++ main.o func.o -o program
-sh
 ./program
 
 
