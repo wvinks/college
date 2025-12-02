@@ -61,8 +61,9 @@ Compile the program:
 g++ file.cpp -o program
 ```
 Run it:
+```sh
 ./program
-
+```
 For separate compilation:
 ```sh
 g++ main.o func.o -o program
