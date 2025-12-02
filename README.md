@@ -45,25 +45,28 @@ tasks 3-10 in progress =)
 
 2. Navigate to the folder with the task you want to run:
    ```sh
-   cd starter tasks
-or:
-   cd separate compilation
-or:
-   cd tasks from 19.11.25
+cd starter tasks
 
+or:
+sh
+cd separate compilation
+
+or:
+sh
+cd tasks from 19.11.25
 
 Compile the program:
-```sh
+sh
 g++ file.cpp -o program
-
 Run it:
-```sh
+
+sh
 ./program
 
-
 For separate compilation:
-```sh
+sh
 g++ main.o func.o -o program
+sh
 ./program
 
 
