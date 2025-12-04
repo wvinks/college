@@ -81,7 +81,8 @@ g++ main.o func.o -o program
 All codes was tested on:
 - my nerves  
 - my laptop  
-- my patience  
+- my patience
+  
 Thank you for teaching us C++ =)
 
 ## 📝 Notes
