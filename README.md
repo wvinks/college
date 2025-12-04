@@ -76,15 +76,13 @@ g++ main.o func.o -o program
 ./program
 ```
 
-## 🧠 Purpose of This Repository
+## 👋 Note for the Teacher
 
-- To store and organize my college programming tasks
-
-- To practice writing clean and structured C++ code
-
-- To demonstrate my learning progress
-
-- To keep all tasks in one safe place
+All codes was tested on:
+- my nerves  
+- my laptop  
+- my patience  
+Thank you for teaching us C++ =)
 
 ## 📝 Notes
 
