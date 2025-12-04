@@ -35,8 +35,9 @@ This shows how real multi-file programs are built.
 Tasks assigned on 19.11:
 - task_1.cpp - first task
 - task_2.cpp - second task
+- task_3.cpp - third task
 
-tasks 3-10 in progress =)
+tasks 4-10 in progress =)
 
 ### basic C++ tasks
 This folder contains basic C++ tasks (something like HackerRank). The condition for each task can be viewed in the corresponding code in the comments.
