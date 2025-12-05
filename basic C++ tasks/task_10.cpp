@@ -4,7 +4,7 @@
 
 int main() {
     int n;
-    int x;   
+    int x;
 
     std::cout << "enter the number of numbers: ";
     std::cin >> n;
@@ -21,8 +21,8 @@ int main() {
             mn = x;
         }
     }
-   
+
    std::cout << "minimum number: " << mn << std::endl;
 
 return 0;
-}
+}            
