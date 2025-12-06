@@ -7,11 +7,11 @@ This repository contains my early C++ programming assignments for the college co
 ### starter tasks
 
 Contains the introductory tasks:
-- task_1.cpp — first task  
-- task_2.cpp — second task  
-- task_3.cpp — third task  
-- task_4.cpp — fourth task  
-- task_5.cpp — fifth task  
+- task_1.cpp - first task  
+- task_2.cpp - second task  
+- task_3.cpp - third task  
+- task_4.cpp - fourth task  
+- task_5.cpp - fifth task  
 
 ### separate compilation
 This folder demonstrates separate compilation in C++ and contains:
@@ -38,8 +38,9 @@ Tasks assigned on 19.11:
 - task_03.cpp - third task
 - task_06.cpp - sixth task
 - task_07.cpp - seventh task
+- task_09.cpp - ninth task
 
-tasks 4-5 and 8-10 in progress =)
+tasks 4,5,8,10 in progress =)
 
 ### basic C++ tasks
 This folder contains basic C++ tasks (something like HackerRank). The condition for each task can be viewed in the corresponding code in the comments.
