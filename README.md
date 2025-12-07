@@ -38,6 +38,7 @@ Tasks assigned on 19.11:
 - task_03.cpp - third task
 - task_06.cpp - sixth task
 - task_07.cpp - seventh task
+- task_08.cpp - eighth task
 - task_09.cpp - ninth task
 
 tasks 4,5,8,10 in progress =)
