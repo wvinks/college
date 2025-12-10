@@ -14,7 +14,7 @@ int main() {
            n = n/10;    
     }
 
-    std::cout << "amount of zero at the end: " << count << std::endl;
+    std::cout << "amount of zeros at the end: " << count << std::endl;
 
 return 0;
 }
