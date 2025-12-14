@@ -36,12 +36,13 @@ Tasks assigned on 19.11:
 - task_01.cpp - first task
 - task_02.cpp - second task
 - task_03.cpp - third task
+- task_04.cpp - fourth task
 - task_06.cpp - sixth task
 - task_07.cpp - seventh task
 - task_08.cpp - eighth task
 - task_09.cpp - ninth task
 
-tasks 4, 5, 10 in progress =)
+tasks 5 and 10 in progress =)
 
 ### basic C++ tasks
 This folder contains basic C++ tasks (something like HackerRank). The condition for each task can be viewed in the corresponding code in the comments.
