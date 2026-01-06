@@ -11,11 +11,11 @@ int main() {
 
     std::cout << "enter the numbers: ";
 
-    for (int i = 0; i <= n; i++) {
+    for (int i = 0; i < n; i++) {
          int x;
          std::cin >> x;
 
-         if (x >= 10 && x%2==0) {
+         if (x >= 10 && x <= 99 && x%2==0) {
              count++;
          }
     }
