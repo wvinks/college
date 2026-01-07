@@ -8,7 +8,7 @@ int main() {
     std::cout << "enter a number: ";
     std::cin >> n;
 
-    for (int i = 0; i <= n; i++) {
+    for (int i = 0; i < n; i++) {
          std::cout << "Hi!" << std::endl;
     }
 
