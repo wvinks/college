@@ -4,7 +4,7 @@
 
 int main() {
     int n;
-    int count = -1;
+    int count = 0;
 
     std::cout << "enter a number: ";
     std::cin >> n;
@@ -12,13 +12,13 @@ int main() {
     int ld;
     ld = n%10;
 
-    for (int i = 0; i <= n; i++) {
-         int d;
-         d = n%10;
+    while (n > 0) {
+           int d;
+           d = n%10;
 
-         if (d == ld) {
-             count++;
-         }
+           if (d == ld) {
+               count++;
+           }
     n = n/10;
     }
 
