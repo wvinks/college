@@ -11,7 +11,7 @@ int main() {
 
     std::cout << "enter a numbers: ";
 
-    for (int i = 0; i <= n; i++) {
+    for (int i = 0; i < n; i++) {
          int x;
          std::cin >> x;
 
