@@ -15,8 +15,12 @@ int main() {
         std::cout << "smaller number: " << b << std::endl;
     }
 
-    else {
+    else if (b > a) {
          std::cout << "smaller number: " << a << std::endl;
+    }
+
+    else {
+         std::cout << "numbers are equal" << std::endl;
     }
 
 return 0;
