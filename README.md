@@ -47,13 +47,19 @@ tasks 5 and 10 in progress =)
 ### basic C++ tasks
 This folder contains basic C++ tasks (something like HackerRank). The condition for each task can be viewed in the corresponding code in the comments.
 
+### pointers
+This folder contains tasks about pointers and arrays in C++.  
+The main explanations and answers are in the file:
+
+- tasks.md — pointer exercises, array access, pointer arithmetic, and other related tasks (including filling in the blanks, truth statements, and error-finding exercises).
+
 ## ▶️ How to Run
 
 1. Install a C++ compiler (e.g., g++).
 
 2. Navigate to the folder with the task you want to run:
 ```sh
-cd starter tasks
+cd starting tasks
 ```
 or:
 ```sh
@@ -66,6 +72,10 @@ cd tasks from 19.11.25
 or:
 ```sh
 cd basic C++ tasks
+```
+or:
+```sh
+cd pointers
 ```
 Compile the program:
 ```sh
