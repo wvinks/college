@@ -51,7 +51,7 @@ This folder contains basic C++ tasks (something like HackerRank). The condition 
 This folder contains tasks about pointers and arrays in C++.  
 The main explanations and answers are in the file:
 
-- tasks.md — pointer exercises, array access, pointer arithmetic, and other related tasks (including filling in the blanks, truth statements, and error-finding exercises).
+tasks.md — pointer exercises, array access, pointer arithmetic, and other related tasks (including filling in the blanks, truth statements, and error-finding exercises).
 
 ## ▶️ How to Run
 
