@@ -1,10 +1,10 @@
-// Write a function that returns the larger of two numbers
+// Write a function that returns the smaller of two numbers
 
 #include <iostream>
 
-int larger(int a, int b) {
+int min(int a, int b) {
 
-    if (a > b) {
+    if (a < b) {
         return a;
     }
 
@@ -22,9 +22,9 @@ int main () {
     std::cout << "enter the second number: ";
     std::cin >> y;
 
-    int r = larger(x,y);
+    int r = min(x,y);
 
-    std::cout << "the largest of two numbers: " << r << std::endl;
+    std::cout << "the smaller of two numbers: " << r << std::endl;
 
 return 0;
 }
