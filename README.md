@@ -51,7 +51,18 @@ This folder contains basic C++ tasks (something like HackerRank). The condition 
 This folder contains tasks about pointers and arrays in C++.  
 The main explanations and answers are in the file:
 
-tasks.md — pointer exercises, array access, pointer arithmetic, and other related tasks (including filling in the blanks, truth statements, and error-finding exercises).
+tasks.md - pointer exercises, array access, pointer arithmetic, and other related tasks (including filling in the blanks, truth statements, and error-finding exercises).
+
+This folder also includes a subfolder:
+
+**pointers & dynamic arrays practice**
+
+This subfolder contains 20 practical tasks on:
+
+- pointers
+- dynamic arrays
+
+The task conditions are written inside each code file as comments.
 
 ## ▶️ How to Run
 
@@ -103,5 +114,5 @@ Thank you for teaching us C++ =)
 ## 📝 Notes
 
 - Mistakes are part of the process.
-- If something breaks — that’s completely normal.
-- If everything works on the first try — that’s magic.
+- If something breaks - that’s completely normal.
+- If everything works on the first try - that’s magic.
