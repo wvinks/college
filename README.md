@@ -64,29 +64,49 @@ This subfolder contains 20 practical tasks on:
 
 The task conditions are written inside each code file as comments.
 
+### structures
+This folder contains solutions to C++ tasks about structures.
+
+The tasks include:
+- declaring and defining structures
+- working with structure fields
+- input and output of structures
+- arrays of structures
+- searching and processing structure data
+- simple sorting and comparisons
+
+The task description is written inside each code file as comments.
+
+The tasks are based on:
+https://alg-omc.dev/tasks/structures/
+
 ## ▶️ How to Run
 
 1. Install a C++ compiler (e.g., g++).
 
 2. Navigate to the folder with the task you want to run:
 ```sh
-cd starting tasks
+cd "starting tasks"
 ```
 or:
 ```sh
-cd separate compilation
+cd "separate compilation"
 ```
 or:
 ```sh
-cd tasks from 19.11.25
+cd "tasks from 19.11.25"
 ```
 or:
 ```sh
-cd basic C++ tasks
+cd "basic C++ tasks"
 ```
 or:
 ```sh
 cd pointers
+```
+or:
+```sh
+cd structures
 ```
 Compile the program:
 ```sh
