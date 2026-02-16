@@ -1,4 +1,5 @@
 // Зчитай дані про 3 студентів та знайди студента з найвищим балом
+// This version of the task was performed using the "string" library
 
 #include <iostream>
 #include <string>
