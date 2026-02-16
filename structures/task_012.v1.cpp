@@ -36,21 +36,20 @@ int main() {
     std::cout << "Student 3 - grade: ";
     std::cin >> student3.grade;
 
-    if (student1.grade > student2.grade && student1.grade > student3.grade) {
-        std::cout << "Best student: " << student1.name << " (" << student1.grade << ")" << std::endl;
+    double maxGrade = student1.grade;
+    std::string bestName = student1.name;
+
+    if (student2.grade > maxGrade) {
+        maxGrade = student2.grade;
+        bestName = student2.name;
     }
 
-    else if (student2.grade > student1.grade && student2.grade > student3.grade) {
-        std::cout << "Best student: " << student2.name << " (" << student2.grade << ")" << std::endl;
-    }
- 
-    else if (student3.grade > student1.grade && student3.grade > student2.grade) {
-        std::cout << "Best student: " << student3.name << " (" << student3.grade << ")" << std::endl;
+    if (student3.grade > maxGrade) {
+        maxGrade = student3.grade;
+        bestName = student3.name;
     }
 
-    else {
-         std::cout << "All students have the same grades" << std::endl;
-    }
+    std::cout << "Best student: " << bestName << " (" << maxGrade << ")" << std::endl;
 
 return 0;
 }
