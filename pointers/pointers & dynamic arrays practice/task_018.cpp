@@ -5,7 +5,7 @@
 int main() {
     int n;
 
-    std::cout << "enter how manu numbers: ";
+    std::cout << "enter how many numbers: ";
     std::cin >> n;
 
     int* arr = new int[n];
